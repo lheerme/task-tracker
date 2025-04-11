@@ -1,6 +1,6 @@
 # Task Tracker
 
-![Preview da aplicação](.github/assets/preview.png)
+![Preview da aplicação](.github/preview.png)
 
 ## Descrição
 
