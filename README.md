@@ -6,7 +6,9 @@
 
 Projeto desenvolvido como parte de um desafio proposto pelo site [roadmap.sh](https://roadmap.sh) para praticar habilidades com HTML, CSS e JavaScript puro.
 
-[Link do Site](https://lheerme.github.io/task-tracker/)
+[Link do site](https://lheerme.github.io/task-tracker/)
+
+[Link do desafio](https://roadmap.sh/projects/task-tracker-js)
 
 
 ## Funcionalidades
